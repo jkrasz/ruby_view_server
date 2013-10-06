@@ -24,7 +24,7 @@ And open up this project in your favorite text editor. Follow along with instruc
 
 ## Committing to GIT
 
-Use this section as a reference to GIT.
+Usev this section as a reference to GIT.
 
 To make commit changes go to the directory then run
 
